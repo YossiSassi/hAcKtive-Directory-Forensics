@@ -5,8 +5,8 @@
 <p><strong>Comments and improvements are <a href="mailto:yossis@protonmail.com" target="_blank"><span style="color: #333333;">welcome</span></a></strong></p>
 <hr />
 <h2 style="color: #2e6c80;">Link to presentation &amp; video:</h2>
-<p><a href="https://s3.amazonaws.com/resources.osdfcon.org/presentations/2021/Yossi_Sassi_What_Your_AD_Did_Last_Summer_OSDFCon_2021.pdf" target="_blank"><strong>Slides</strong></a></p>
-<p>Video: &lt;Coming soon&gt;</p>
+<p><a href="https://s3.amazonaws.com/resources.osdfcon.org/presentations/2021/Yossi_Sassi_What_Your_AD_Did_Last_Summer_OSDFCon_2021.pdf" target="_blank"><strong>Slides</strong></a> - Presentation slides in PDF</p>
+<p><a title="Talk video on youtube" href="https://www.youtube.com/watch?v=0WG186KOkLc" target="_blank"><strong>Video</strong></a> - Talk video on YouTube</p>
 <h2 style="color: #2e6c80;">Open source tools &amp; Scripts:</h2>
 <p><strong><a title="Get-ADGroupChanges" href="https://github.com/YossiSassi/Get-ADGroupChanges" target="_blank">Get-ADGroupChanges</a>- </strong>"pure" powershell cmdlet (no module dependencies or special AD permissions needed) to retrieve change history in an AD group membership, or all groups, or per user since the creation of the domain. relies on object metadata rather than event logs. useful for DF/IR, tracking changes in groups etc'. Supports querying AD Metadata either from an Online Domain Controller, or from an offline system state backup/Snapshot</p>
 <p><strong><a title="Get-ADUserAddedToGroup" href="https://github.com/YossiSassi/Get-ADUserAddedToGroup" target="_blank">Get-ADUserAddedToGroup</a>- </strong>simple &amp; quick script to check when a user was added to a group (basic/entry level forensics, requires activedirectory module)</p>
