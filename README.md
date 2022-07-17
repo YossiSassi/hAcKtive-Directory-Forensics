@@ -8,7 +8,7 @@
 'Hack In Paris' 2022 talk: <a title="&quot;I know what your 'Microsoft Mainframe' did last summer!&quot;" href="https://hackinparis.com/talks/#talk-2022-i-know-what-your-microsoft-mainframe-did-last-summer-hacktive-directory-forensics" target="_blank"><span style="color: #000080;">"Hacktive Directory Forensics (announcing 'GoldFinger' - Suspicious TGT Detector)"</span></a></span> <span style="color: #000000;">
 <p>Link coming soon...</p>
 <BR>SecurityFest 2022 talk: <a title="&quot;I know what your 'Microsoft Mainframe' did last summer!&quot;" href="https://securityfest.com/speakers/2022/i-know-what-your-microsoft-mainframe-did-last-summer-hacktive-directory-forensics/" target="_blank"><span style="color: #000080;">"I know what your 'Microsoft Mainframe' did last summer!"</span></a></span> <span style="color: #000000;">
-<p>Link coming soon...</p>
+<p><a title="Talk video on youtube" href="https://youtu.be/PXHmXvWcJPY" target="_blank"><strong>Video</strong></a> - Talk video on YouTube</p>
 <BR>OSDFCon 2021 talk: <a title="&quot;I know what your AD did last summer!..&quot;" href="https://www.osdfcon.org/events_2021/i-know-what-your-ad-did-last-summer/" target="_blank"><span style="color: #000080;">"I know what your AD did last summer!.."</span></a></span> <span style="color: #000000;">
 <p><a href="https://s3.amazonaws.com/resources.osdfcon.org/presentations/2021/Yossi_Sassi_What_Your_AD_Did_Last_Summer_OSDFCon_2021.pdf" target="_blank"><strong>Slides</strong></a> - Presentation slides in PDF</p>
 <p><a title="Talk video on youtube" href="https://www.youtube.com/watch?v=0WG186KOkLc" target="_blank"><strong>Video</strong></a> - Talk video on YouTube</p>
