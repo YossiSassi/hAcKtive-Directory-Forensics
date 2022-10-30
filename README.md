@@ -5,8 +5,8 @@
 <p><strong>Comments and improvements are <a href="mailto:yossis@protonmail.com" target="_blank"><span style="color: #333333;">welcome</span></a></strong></p>
 <hr />
 <h2 style="color: #2e6c80;">Talks, slides &amp; videos:</h2>
-'Hack In Paris' 2022 talk: <a title="&quot;I know what your 'Microsoft Mainframe' did last summer!&quot;" href="https://hackinparis.com/talks/#talk-2022-i-know-what-your-microsoft-mainframe-did-last-summer-hacktive-directory-forensics" target="_blank"><span style="color: #000080;">"Hacktive Directory Forensics (announcing 'GoldFinger' - Suspicious TGT Detector)"</span></a></span> <span style="color: #000000;">
-<p>Link coming soon...</p>
+'Hack In Paris' 2022 talk: <a title="&quot;I know what your 'Microsoft Mainframe' did last summer!&quot;" href="https://hackinparis.com/archives/2022/#talk-2022-i-know-what-your-microsoft-mainframe-did-last-summer-hacktive-directory-forensics" target="_blank"><span style="color: #000080;">"Hacktive Directory Forensics (announcing 'GoldFinger' - Suspicious TGT Detector)"</span></a></span> <span style="color: #000000;">
+<p><a title="Talk video on youtube" href="https://www.youtube.com/watch?v=a9LKT49JSd0" target="_blank"><strong>Video</strong></a> - Talk video on YouTube</p>
 <BR>SecurityFest 2022 talk: <a title="&quot;I know what your 'Microsoft Mainframe' did last summer!&quot;" href="https://securityfest.com/speakers/2022/i-know-what-your-microsoft-mainframe-did-last-summer-hacktive-directory-forensics/" target="_blank"><span style="color: #000080;">"I know what your 'Microsoft Mainframe' did last summer!"</span></a></span> <span style="color: #000000;">
 <p><a title="Talk video on youtube" href="https://youtu.be/PXHmXvWcJPY" target="_blank"><strong>Video</strong></a> - Talk video on YouTube</p>
 <BR>OSDFCon 2021 talk: <a title="&quot;I know what your AD did last summer!..&quot;" href="https://www.osdfcon.org/events_2021/i-know-what-your-ad-did-last-summer/" target="_blank"><span style="color: #000080;">"I know what your AD did last summer!.."</span></a></span> <span style="color: #000000;">
