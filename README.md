@@ -1,7 +1,7 @@
 <h1 style="color: #5e9ca0;"><span style="color: #008080;">h</span><span style="color: #2b2301;">Ac</span><span style="color: #008080;">K</span><span style="color: #2b2301;">tive Directory Forensics</span></h1>
 <hr />
 <h3 style="color: #2e6c80;"><span style="color: #333399;">Compiled by 1nTh35h311 (<a title="#yossi_sassi" href="https://twitter.com/yossi_sassi" target="_blank">#yossi_sassi</a>)</span></h3>
-<p>Page last updated on June 2nd 2022 (tools in links may update routinely)</p>
+<p>Page last updated on October 30th 2022 (tools in links may update routinely)</p>
 <p><strong>Comments and improvements are <a href="mailto:yossis@protonmail.com" target="_blank"><span style="color: #333333;">welcome</span></a></strong></p>
 <hr />
 <h2 style="color: #2e6c80;">Talks, slides &amp; videos:</h2>
