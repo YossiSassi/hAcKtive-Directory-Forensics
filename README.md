@@ -6,7 +6,7 @@
 <hr />
 <h2 style="color: #2e6c80;">Talks, slides &amp; videos:</h2>
 'HackCon' 2023 talk: <a title="Hacktive Directory Forensics - a toolkit for understanding who|what|when in your domain" href="https://www.hackcon.org/hacktive-directory-forensics-a-toolkit-for-understanding-whowhatwhen-in-your-domain" target="_blank"><span style="color: #000080;">Hacktive Directory Forensics - a toolkit for understanding who|what|when in your domain</span></a></span> <span style="color: #000000;">
-<p> - Coming soon...</p>
+<p><a href="https://www.slideshare.net/yossis1/hacktive-directory-forensics-hackcon18-oslo" target="_blank"><strong>Slides</strong></a> - Presentation slides</p>
 'Hack In Paris' 2022 talk: <a title="&quot;I know what your 'Microsoft Mainframe' did last summer!&quot;" href="https://hackinparis.com/archives/2022/#talk-2022-i-know-what-your-microsoft-mainframe-did-last-summer-hacktive-directory-forensics" target="_blank"><span style="color: #000080;">Hacktive Directory Forensics (announcing 'GoldFinger' - Suspicious TGT Detector)</span></a></span> <span style="color: #000000;">
 <p><a title="Talk video on youtube" href="https://www.youtube.com/watch?v=a9LKT49JSd0" target="_blank"><strong>Video</strong></a> - Talk video on YouTube</p>
 <BR>SecurityFest 2022 talk: <a title="&quot;I know what your 'Microsoft Mainframe' did last summer!&quot;" href="https://securityfest.com/speakers/2022/i-know-what-your-microsoft-mainframe-did-last-summer-hacktive-directory-forensics/" target="_blank"><span style="color: #000080;">"I know what your 'Microsoft Mainframe' did last summer!"</span></a></span> <span style="color: #000000;">
