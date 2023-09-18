@@ -1,7 +1,7 @@
 <h1 style="color: #5e9ca0;"><span style="color: #008080;">h</span><span style="color: #2b2301;">Ac</span><span style="color: #008080;">K</span><span style="color: #2b2301;">tive Directory Forensics</span></h1>
 <hr />
 <h3 style="color: #2e6c80;"><span style="color: #333399;">Compiled by 1nTh35h311 (<a title="#yossi_sassi" href="https://twitter.com/yossi_sassi" target="_blank">#yossi_sassi</a>)</span></h3>
-<p>Page last updated on February 18th 2023 (tools in links may update routinely)</p>
+<p>Page last updated on September 18th 2023 (tools in links may update routinely)</p>
 <p><strong>Comments and improvements are <a href="mailto:yossis@protonmail.com" target="_blank"><span style="color: #333333;">welcome</span></a></strong></p>
 <hr />
 <h2 style="color: #2e6c80;">Talks, slides &amp; videos:</h2>
@@ -31,6 +31,9 @@
 <BR><p><strong><a title="Get-ADPrincipalKerberosTokenGroup" href="https://github.com/YossiSassi/Get-ADPrincipalKerberosTokenGroup" target="_blank">Get-ADPrincipalKerberosTokenGroup</a> - </strong>a powershell implementation of PAC enum (similar to <a title="getpac.py" href="https://github.com/SecureAuthCorp/impacket/blob/master/examples/getPac.py" target="_blank">getpac.py</a>). does not require special privileges. enumerates effective token (cumulative group SIDs from Kerberos PAC) for any user, by any authenticated user</p>
 <BR><p><strong><a href="https://github.com/YossiSassi/LDAPmonitor" target="_blank" rel="noopener">LDAPMonitor</a> - </strong>My updated ps1 version of @<a href="https://github.com/p0dalirius/LDAPmonitor" target="_blank">p0dalirius</a>'s script. Monitor creation, deletion and changes to LDAP objects during a *live* forensics session, or pentest and/or for sys admin|secops during a pentest</p>
 <BR><p><span style="text-decoration: underline;"><strong>Additional topic-related scripts:</strong></span></p>
+
+<BR><p><strong><a title="Invoke-AdminSDHolderPermissionCheck" href="https://github.com/YossiSassi/Invoke-AdminSDHolderPermissionCheck" target="_blank" rel="noopener">Invoke-AdminSDHolderPermissionCheck</a> - </strong>Analyzes AdminSDHolder permissions & compares with a previous run, to detect potential backdoor/excessive persistent permission(s). No special privileges required.</p>
+
 <BR><p><strong><a title="Get-ChangesInADUser" href="https://github.com/YossiSassi/Get-ChangesInADUser" target="_blank" rel="noopener">Get-ChangesInADUser</a> - </strong>Checks for changes in AD users. Useful in finding who|when changed what property of an AD user. Requires 'Event Log Readers' permission or equivalent, to query Security event logs on Domain Controllers. No additional modules required.</p>
 <BR><p><strong><a title="Get-LogonworkstationsAttributeStatus" href="https://github.com/YossiSassi/Get-LogonworkstationsAttributeStatus" target="_blank" rel="noopener">Get-LogonworkstationsAttributeStatus</a> - </strong>Gets the latest Change (if ever) in userWorkstations attribute value (Logon restrictions by user workstations) using Replication property MetaData. No logging/auditing required. No special permissions required. Sees ANY change since creation of the user. Can laso indicate if attribute was cleared deliberately.</p>
 <BR><p><strong><a title="Get-UserSession" href="https://github.com/YossiSassi/Get-UserSession" target="_blank" rel="noopener">Get-UserSession</a> - </strong>Queries user sessions for the entire domain (Interactive/RDP etc), allowing you to query a user and see all his logged on sessions, whether Active or Disconnected. Can be correlated during live forensics with active entity sessions</p>
